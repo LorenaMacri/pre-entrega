@@ -1,5 +1,0 @@
-Fondo de landing page gradient
-Claro: #FAEDFF  Oscuro:#E2BDFF
-
-Fondo background
-Claro: ##FFFFFF  Oscuro:#FFEDFC
